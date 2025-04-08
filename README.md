@@ -121,8 +121,7 @@ This project is backed by research in the field of ML-based network forensics:
 **Muhammad Hassan Noonari**  
 🎓 Bachelor of Cybersecurity (Deakin University)  
 🔒 Network Forensics | Ethical Hacking | AI in Security  
-🌐 GitHub: [@yourusername](https://github.com/yourusername)  
-📫 Email: *your.email@example.com*
+📫 Email: hassan.noonari2003@gmail.com
 
 ---
 
