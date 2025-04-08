@@ -45,6 +45,7 @@ This project is a **Machine Learning-based system to detect ARP spoofing (poison
 │   ├── main.py
 │   └── argument_parser.py
 │
+│── LICENSE
 ├── README.md                     # Project overview (this file)
 └── requirements.txt              # Python dependencies
 ```
