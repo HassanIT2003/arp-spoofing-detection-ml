@@ -1,6 +1,4 @@
 # 🧠 ARP Spoofing Detection Using Machine Learning  
-> *Developed by Muhammad Hassan Noonari*  
-> SIT327 – Network Forensics (HD Project 2025)
 
 ![Python](https://img.shields.io/badge/Python-3.8-blue)
 ![Scapy](https://img.shields.io/badge/Scapy-Network_Toolkit-orange)
